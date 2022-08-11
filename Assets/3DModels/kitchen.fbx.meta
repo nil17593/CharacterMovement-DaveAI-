@@ -1,15 +1,74 @@
 fileFormatVersion: 2
-guid: 74438507caf4bf24aa631a2858d02a5d
+guid: 8ad0af20af22c2342b3e1f8e1e4d5302
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable:
+  internalIDToNameTable: []
+  externalObjects:
   - first:
-      74: -1978303741906493279
-    second: Armature|idle
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back_splash
+    second: {fileID: 2100000, guid: 14b3008bb57908e4ba265422a8aa1fc5, type: 2}
   - first:
-      74: 1857391645243723920
-    second: Armature|walk_cycle
-  externalObjects: {}
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cabinet
+    second: {fileID: 2100000, guid: 5c654a29d3249cc4ba6d319075ed27e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Counter_top
+    second: {fileID: 2100000, guid: 3c617e168422b2249840392b97aa7a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dining_surface
+    second: {fileID: 2100000, guid: a118dda821fb68944bc0ee15c045fb55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 32b7de913126d4946a0da908fc1d16fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: b3f98b26d32fe1b49b82f41a0abf5115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plants
+    second: {fileID: 2100000, guid: 4e7f7f28e68e01b46b55356f07961112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Props
+    second: {fileID: 2100000, guid: 5487ee12b68168443833a37c20c1df31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf
+    second: {fileID: 2100000, guid: 48fd8bcfe3002e845834ea9def860fba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: f3914b610a827cc4f890310a63538dee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_cladding
+    second: {fileID: 2100000, guid: b6ba668992b97a844b6e658ab0fc5838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: opposite_wall
+    second: {fileID: 2100000, guid: 683cfb688fb97fa4c91a35107878d752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: outside_view
+    second: {fileID: 2100000, guid: 6a4d7a92e01128642828d380b418fb96, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
